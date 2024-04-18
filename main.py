@@ -48,4 +48,4 @@ async def fight(message):
 @bot.command()
 async def joined(ctx, member: discord.Member):
     await ctx.send(f'дикий {member.name} появился {discord.utils.format_dt(member.joined_at)}')
-bot.run('MTIyOTAwOTQxNDExMjAyMjY4OQ.GqgeDR.0CQksH-cVlzwnQ9YE2dzgMBZFt1pjNqLKl7EcM')
+bot.run('')
