@@ -14,10 +14,10 @@ facts = {
 'Социальные сети имеют как позитивные, так и негативные стороны, и мы должны быть более осознанными в использовании этих платформ.'
 }
 fotos = {
-    'https://www.cats.org.uk/media/13136/220325case013.jpg?width=500&height=333.49609375'
-    'https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2023/07/top-20-small-dog-breeds.jpeg.jpg'
-    'https://arigus.tv/upload/resize_cache/iblock/3b2/680_680_1/yr85idltllgw1hfsgmbqf8dbfhde515n.jpg'
-    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRspCloTEAW_bbkBNLwHwZ1g-cYFQpAyjP6cxxzSVxp_Q&s'
+    'https://www.cats.org.uk/media/13136/220325case013.jpg?width=500&height=333.49609375',
+    'https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2023/07/top-20-small-dog-breeds.jpeg.jpg',
+    'https://arigus.tv/upload/resize_cache/iblock/3b2/680_680_1/yr85idltllgw1hfsgmbqf8dbfhde515n.jpg',
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRspCloTEAW_bbkBNLwHwZ1g-cYFQpAyjP6cxxzSVxp_Q&s',
     'https://upload.wikimedia.org/wikipedia/commons/7/7a/1859-Martinique.web.jpg'
 }
 @app.route('/')
