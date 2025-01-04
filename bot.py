@@ -77,7 +77,6 @@ def NY_left(message):
 @bot.message_handler(commands=["human"])
 def human(message):
     args = telebot.util.extract_arguments(message.text).split()
-    print(args)
     human = Human(args[0],args[1],args[2])
     bot.send_message(message.chat.id,f'human {human.name} created')
     bot.send_message(message.chat.id,human.info())
